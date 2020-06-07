@@ -1,0 +1,12 @@
+[
+  {"id": 1,"name": "bulbasaur", "types": ["grass", "poison"], "height": 7, "weight": 69, "description": "For some time after its birth, it grows by gaining nourishment from the seed on its back." },
+  {"id": 2,"name": "ivysaur", "types": ["grass", "poison"], "height": 10, "weight": 130, "description": "When the bud on its back starts swelling, a sweet aroma wafts to indicate the flowers coming bloom." },
+  {"id": 3,"name": "venusaur", "types": ["grass", "poison"], "height": 20, "weight": 1000, "description": "After a rainy day, the flower on its back smells stronger. The scent attracts other Pokémon." },
+  {"id": 4,"name": "charmander", "types": ["fire"], "height": 6, "weight": 85, "description": "The fire on the tip of its tail is a measure of its life. If healthy, its tail burns intensely." },
+  {"id": 5,"name": "charmeleon", "types": ["fire"], "height": 11, "weight": 190, "description": "In the rocky mountains where Charmeleon live, their fiery tails shine at night like stars." },
+  {"id": 6,"name": "charizard", "types": ["fire", "flying"], "height": 16, "weight": 905, "description": "It is said that Charizards fire burns hotter if it has experienced harsh battles." },
+  {"id": 7,"name": "squirtle", "types": ["water"], "height": 5, "weight": 90, "description": "It shelters itself in its shell then strikes back with spouts of water at every opportunity." },
+  {"id": 8,"name": "wartortle", "types": ["water"], "height": 10, "weight": 225, "description": "It is said to live 10,000 years. Its furry tail is popular as a symbol of longevity." },
+  {"id": 9,"name": "blastoise", "types": ["water"], "height": 16, "weight": 855, "description": "The jets of water it spouts from the rocket cannons on its shell can punch through thick steel." },
+  {"id": 10,"name": "caterpie", "types": ["bug"], "height": 3, "weight": 29, "description": "It releases a stench from its red antenna to repel enemies. It grows by molting repeatedly." }
+]
